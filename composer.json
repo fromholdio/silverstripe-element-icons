@@ -1,0 +1,20 @@
+{
+  "name": "fromholdio/silverstripe-element-icons",
+  "type": "silverstripe-vendormodule",
+  "description": "A collection of icons for Silverstripe elemental",
+  "license": "proprietary",
+  "keywords": ["silverstripe", "elemental", "icons"],
+  "homepage": "https://github.com/fromholdio/silverstripe-element-icons",
+  "support": {
+    "issues": "https://github.com/fromholdio/silverstripe-element-icons/issues"
+  },
+  "authors": [{
+    "name": "Luke Fromhold",
+    "homepage": "https://fromhold.io"
+  }],
+  "require": {
+    "silverstripe/admin": "^1"
+  },
+  "prefer-stable": true,
+  "minimum-stability": "dev"
+}

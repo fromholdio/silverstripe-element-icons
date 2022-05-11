@@ -1,0 +1,8 @@
+---
+Name: fromholdio-element-icons
+After: 'elemental'
+---
+
+SilverStripe\Admin\LeftAndMain:
+  extra_requirements_css:
+    - fromholdio/silverstripe-element-icons:client/dist/styles/bundle.css
