@@ -15,6 +15,11 @@
   "require": {
     "silverstripe/admin": "^1"
   },
+  "extra": {
+    "expose": [
+      "client/dist"
+    ]
+  },
   "prefer-stable": true,
   "minimum-stability": "dev"
 }
