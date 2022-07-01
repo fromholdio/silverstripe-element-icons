@@ -4,8 +4,10 @@ $icons: (
   features,
   gallery1,
   gallery2,
+  html,
   illustrated-features,
   listgroup,
+  oembed,
   sectionnav,
   slideshow,
   spotlight,
@@ -15,7 +17,7 @@ $icons: (
 );
 
 @each $icon in $icons {
-    .popover-option-set button.elemental-icon-#{$icon}::before,
+    .popover-option-set button.elemental-icon__#{$icon}::before,
     i.elemental-icon-#{$icon} {
         display: inline-block;
         width: 28px;
