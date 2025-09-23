@@ -13,8 +13,7 @@
     "homepage": "https://fromhold.io"
   }],
   "require": {
-    "silverstripe/admin": "^1 || ^2",
-	"silverstripe/vendor-plugin": "^1 || ^2"
+    "silverstripe/admin": "^1 || ^2 || ^3"
   },
   "extra": {
     "expose": [
